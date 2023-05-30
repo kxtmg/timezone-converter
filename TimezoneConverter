@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public TimezoneConverter(){
+    public static void main(String arg[]){
+
+        // Prompt
+        System.out.println("Enter time (PDT): ");
+
+        // Read in user input
+        Scanner input = new Scanner(System.in);
+        int userInput = input.nextInt();
+        
+    }
+}
